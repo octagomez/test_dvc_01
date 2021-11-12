@@ -1,0 +1,6 @@
+[core]
+    remote = storage
+['remote "proyecto01"']
+    url = gdrive://1Dwid4UkhjN17B9xqvsu_aRPs1tOkSnAB/dvcstore
+['remote "storage"']
+    url = /content/drive/MyDrive/test_dvc_01/dvcstore
